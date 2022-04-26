@@ -26,6 +26,5 @@ We propose a novel dual global attention neural network (DGANet) to improve the 
    ```
    python detect.py --cfg cfg/DGANet-resnet101-conv345-ratio1.cfg --names data/cancer.names --weights weights/best.pt --source data/samples --output output
    ```
-## Citation
 
 
