@@ -6,5 +6,5 @@ We propose a novel dual global attention neural network (DGANet) to improve the 
 ## Usage
 1. Install pytorch
    The code is tested on python 3.6 and torch 1.4.0.
-   The code is modified from []().
+   The code is modified from [yolov3](https://github.com/ultralytics/yolov3).
 
