@@ -1,0 +1,4 @@
+the link of the model weight (best.pt):
+
+link：https://pan.baidu.com/s/1QMkgthJ-TrwLnmBmDe3U-Q 
+extract code：kdb9
