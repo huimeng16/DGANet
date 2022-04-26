@@ -1,0 +1,7 @@
+classes=2
+train=data/fold1_test.txt
+valid=data/fold1_test.txt
+test=data/fold1_test.txt
+names=data/cancer.names
+backup=backup/
+eval=coco
